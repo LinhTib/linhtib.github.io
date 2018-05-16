@@ -83,7 +83,7 @@ section {
 .masthead{
     padding-top: 10rem;
     padding-bottom: calc(10rem - 56px); 
-    background-image: url(header.jpg);
+    background-image: url(header.JPG);
     background-position: top center;
     background-size: cover;
 }
