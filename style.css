@@ -83,7 +83,7 @@ section {
 .masthead{
     padding-top: 10rem;
     padding-bottom: calc(10rem - 56px); 
-    background-image: url(https://trello-attachments.s3.amazonaws.com/5aefd903bcb0d73d2cfb200e/5aefd99dc39298bee9e3140e/ca197bf9b4b1550449df8128dc5382a0/header.JPG);
+    background-image: url(header.jpg);
     background-position: top center;
     background-size: cover;
 }
